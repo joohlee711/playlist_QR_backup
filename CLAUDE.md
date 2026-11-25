@@ -40,6 +40,15 @@ GitHub Pages(main 브랜치, 루트)로 배포: https://joohlee711.github.io/pla
 - Spotify 곡 목록이 바뀌어 다시 가져올 때: 같은 slug로 스크립트 재실행. 손으로 쓴 `intro`/`comment`/`comment_by`는 곡 ID 기준으로 유지된다.
 - 삭제: `data/playlists/<slug>.json`과 `assets/<slug>/` 삭제 후 `--reindex`. 삭제 전 사용자에게 한 번 확인.
 
+## 되돌리기 ("방금 올린 거 취소해줘")
+- `git revert <커밋>`으로 새 커밋을 만들어 되돌리고 main에 푸시. **`reset --hard`나 force push는 쓰지 않는다** (기록이 사라지고 다른 사람 작업을 덮을 수 있음).
+- "방금" = 이 사용자가 마지막으로 푸시한 커밋. 대상이 애매하면 최근 커밋 몇 개를 쉬운 말(날짜·플리 제목)로 보여주고 고르게 한다.
+- 되돌린 뒤 무엇이 원래대로 돌아갔는지 한 줄로 알려준다.
+
+## 처음 준비 / 권한 창
+- 사용자가 README 3번 문장으로 준비를 요청하면: git·Python 설치 확인(없으면 설치 안내 또는 설치), 레포 clone, `pip install segno`, GitHub 인증(push 가능 여부)까지 확인하고 "준비 끝"이라고 알린다.
+- 명령 실행 전 권한 창이 뜰 때마다 사용자는 낯선 영어 명령어를 보게 된다. 처음 몇 번은 실행 전에 "지금 ○○하려고 허용을 물어볼 거야"라고 한 줄로 미리 말해준다.
+
 ## 디자인 규칙 (사이트 수정 요청 시)
 - 폰트: Pretendard Variable dynamic subset (jsDelivr CDN)
 - 검정 바탕. 노랑 `#eef03a`는 포인트로만(Spotify 버튼, 제목 하이라이트, 활성 표시)
