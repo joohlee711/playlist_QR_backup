@@ -1,0 +1,1037 @@
+{
+ "slug": "2026-11-mono-lens",
+ "vol": null,
+ "date": "2026-11-25",
+ "title": "왼손잡이 덥스텝",
+ "type": "guest",
+ "curator": {
+  "name": "Mono Lens",
+  "handle": "mono_lens_"
+ },
+ "intro": "<캡션 텍스트>",
+ "instagram": "https://www.instagram.com/akks.kr/",
+ "cover": "assets/2026-11-mono-lens/cover.jpg",
+ "qr": {
+  "svg": "assets/2026-11-mono-lens/qr.svg",
+  "png": "assets/2026-11-mono-lens/qr.png"
+ },
+ "spotify": {
+  "id": "7i8PotqqlAb88Bwybh7PAk",
+  "url": "https://open.spotify.com/playlist/7i8PotqqlAb88Bwybh7PAk",
+  "name": "Jazz House 2026",
+  "owner": "Delicieuse Musique",
+  "images": [
+   "https://image-cdn-fa.spotifycdn.com/image/ab67706c00006c1137b4f4c18c4eb9ec4a374ca3",
+   "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8437b4f4c18c4eb9ec4a374ca3",
+   "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb37b4f4c18c4eb9ec4a374ca3"
+  ],
+  "colors": {
+   "bg": "#002878",
+   "bg_tint": "#244fa2",
+   "text_sub": "#aed0ff"
+  },
+  "track_count_fetched": 100
+ },
+ "tracks": [
+  {
+   "id": "6Khjz6ZTdxhVujmB4fUWsK",
+   "title": "On & On",
+   "artists": "bari, Nathan Haines",
+   "duration_ms": 207656,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/8c5d54c5c683e9f6d922bb9811138861f51ef984",
+   "comment": "<곡 1 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1Nh4nAdiWYUqXkhgxyTTR8",
+   "title": "Ebb & Flow",
+   "artists": "DAWSON, Lewis McCallum",
+   "duration_ms": 218809,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/3852e5f3bbaddc7590158eec67632336d2e5c617",
+   "comment": "<곡 2 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "7oVSOBDlOuRcpaBZoarr9k",
+   "title": "I Wonder Where You Are",
+   "artists": "Kareem Ali",
+   "duration_ms": 234105,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/68c7fe94d1a17940d3f0e5faf525419d19c070a1",
+   "comment": "<곡 3 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "7efp1XApPUC4BqXcUXG0cW",
+   "title": "autumn after five",
+   "artists": "Bootie Grove",
+   "duration_ms": 116065,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/efed63b05d961b161d60c44e0b2bcd12bacd4093",
+   "comment": "<곡 4 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "06pm49cXAqXqJWw9KcOsCh",
+   "title": "Tiramisu Latte",
+   "artists": "Sable Blanc",
+   "duration_ms": 396610,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/3150a1b29d3ae504e6ffe5df6ec42c83b716072c",
+   "comment": "<곡 5 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0sn7xBlZMxUjdQe4uWNUh1",
+   "title": "Langt Langt Borte",
+   "artists": "Bård Berg",
+   "duration_ms": 260823,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/120d2cefb3b79e1040e59871d7427e02d8537873",
+   "comment": "<곡 6 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5deJC7o86gjJoPobebQohn",
+   "title": "⁠Apt To Sidewalk Stand",
+   "artists": "Tar Blanche",
+   "duration_ms": 204713,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/20c45551e9ef10f67bf81117c94a18e1e195184a",
+   "comment": "<곡 7 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2WSIyYpNWEOFOa1wfxekm6",
+   "title": "Keep On Keeping On",
+   "artists": "Kareem Ali",
+   "duration_ms": 298386,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/54e88381d17718b9743ac430d8bbfde6a86e539e",
+   "comment": "<곡 8 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1uUig8GbfDdTSkyKzUnGre",
+   "title": "Oyster Jam",
+   "artists": "dublon, Levi Hayes",
+   "duration_ms": 157723,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/a858b8bee5610c821d9a752bbee0e63b02dca0ed",
+   "comment": "<곡 9 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3xmoFNXuTc30AaNm9QSDFt",
+   "title": "Bourgogne",
+   "artists": "AJ Hamilton",
+   "duration_ms": 246000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/84ae56230788d09aaf00c909e91d188ff1f58c64",
+   "comment": "<곡 10 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6k9L7tfdnNWjyzZDYbNr9I",
+   "title": "Even When You Smile - Teuteu Remix",
+   "artists": "Flying Moth, Teuteu",
+   "duration_ms": 218644,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/5a344331e6f7cf46ecbec245c990cdce7daa8fd6",
+   "comment": "<곡 11 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1bp0UqfMxUFhGRhHDWYrP1",
+   "title": "August Green",
+   "artists": "Jimmy Q, Beren Olivia",
+   "duration_ms": 123130,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/1e379240431be6c8f6f23a18ce4fdc419e441560",
+   "comment": "<곡 12 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0SX2perDIR9oc5neDZQcLx",
+   "title": "Into the Mystic",
+   "artists": "balmi",
+   "duration_ms": 135245,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/a890d8cad16295d9d349c06b56c1c219268fa9a0",
+   "comment": "<곡 13 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "4g2IofvpR6XcrX9I1Rui3J",
+   "title": "Tess",
+   "artists": "Teuteu",
+   "duration_ms": 212170,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/f34cdddd65274cc94719dddb5805efe5d0e107d8",
+   "comment": "<곡 14 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "4lyE5uFJ9c4BBSyUy1noeS",
+   "title": "Echoes",
+   "artists": "MARINI",
+   "duration_ms": 217500,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ff2b279b405269e940afa35ed028605235b3ffa9",
+   "comment": "<곡 15 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1E6kgbqLP4GPd4gsKab6Wt",
+   "title": "Milles Away",
+   "artists": "Linkwood Family, Joseph Malik",
+   "duration_ms": 518373,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/b14af0b3ba3454efd3c732ddf211c5f9cb3856d4",
+   "comment": "<곡 16 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "66PKSXSj9xLLl4I6GIWE4T",
+   "title": "Square - Jimmy Q Remix",
+   "artists": "Michael Benedikt, Jimmy Q",
+   "duration_ms": 166166,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/fca411116a17026b25997591c80588fedff20224",
+   "comment": "<곡 17 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "12BaQt9aYdTlEtKreqB5V4",
+   "title": "jazz is for ordinary people",
+   "artists": "berlioz",
+   "duration_ms": 164000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/194c103d97119d59e8658af4d1253b07afbc7d98",
+   "comment": "<곡 18 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5rc2UcR0nSuRctzHDulh3a",
+   "title": "You Are My Babe",
+   "artists": "Viggo",
+   "duration_ms": 128571,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/162404ebaf4a38a3c8439bb4c047a6c09143b8f5",
+   "comment": "<곡 19 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1gPeJMO7Az6ZtzHiaKUTWb",
+   "title": "Opendoors",
+   "artists": "Jitwam",
+   "duration_ms": 162102,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/30e4a78bfb72db5903ceb216f739d8c85f3260f9",
+   "comment": "<곡 20 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6XXgcvTWRlPl3w6e8pYBct",
+   "title": "With Her Hand - Ralf GUM Instrumental",
+   "artists": "Ralf Gum, Hugh Masekela",
+   "duration_ms": 304494,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/07b5b1118af174379693ccd1a7e46a0dad0a2717",
+   "comment": "<곡 21 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6VFWV1mbJEM0TG9t8xC26t",
+   "title": "Spanish Grease - Dorfmeister Con Madrid De Los Austrias Muga Reserve Mix",
+   "artists": "Willie Bobo",
+   "duration_ms": 445240,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/6d11641917ee695a08c33c96b8a8062beaafbfba",
+   "comment": "<곡 22 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2oxr3Hhgiedo5PZSYImqPa",
+   "title": "What About This Love - Chaos In The CBD Remix",
+   "artists": "dip in the pool, Chaos In The CBD",
+   "duration_ms": 317095,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/98069398e63abd87a65d28054da9bbc1144edd0b",
+   "comment": "<곡 23 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5aCopzaHOWi1a6oVrCsFuM",
+   "title": "The Musician",
+   "artists": "Soul Groove (UK)",
+   "duration_ms": 381291,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/45875657cb26cde098af47cf9e84861ee1be8d58",
+   "comment": "<곡 24 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5A1KvasxkkvRDfj5sACq95",
+   "title": "Saratoga",
+   "artists": "Jimmy Q",
+   "duration_ms": 160000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/96b9ad5dbed26f6ce441dc1acaeb088fedcd5e39",
+   "comment": "<곡 25 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5LKoj68kYPLaFMyjVIbY0M",
+   "title": "Hiromasa's Interlude",
+   "artists": "Yadava",
+   "duration_ms": 96774,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/71a3b29aca86b7ef674f727b16eed6a7d753c214",
+   "comment": "<곡 26 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6roW4lfkqGDImLNcDyeVLC",
+   "title": "Highway - Teuteu Remix",
+   "artists": "Michael Benedikt, Teuteu",
+   "duration_ms": 153277,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/5a291f371cfe163e1a0cdbc2b693791c9571a543",
+   "comment": "<곡 27 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "11S528yQYgaYQjdBXlBJBS",
+   "title": "I'll Be There For You",
+   "artists": "Plaisance",
+   "duration_ms": 180790,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ad66ce3c5c93ce6008737bcf4562a44aaa244f44",
+   "comment": "<곡 28 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2hpVQBayFqLoNKO6XKnDGn",
+   "title": "Acropolis",
+   "artists": "gabriel",
+   "duration_ms": 174107,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/c39f267a6818b05a9be2015e7790a012e728091b",
+   "comment": "<곡 29 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "034slhiRTHUoJk7wNtUGb8",
+   "title": "Rising",
+   "artists": "Jimmy Q",
+   "duration_ms": 142809,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/311480a9a28f643e7b9b26e33955bc75f2a9bfe4",
+   "comment": "<곡 30 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2YE3TKZiHd8hdNeBDOm9rb",
+   "title": "Dynamite",
+   "artists": "Teuteu, Implicit",
+   "duration_ms": 180977,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/cd32a5325848c7d4576e789d9b75a3ba7d16cdf9",
+   "comment": "<곡 31 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3J5cXnEVsVLcQCE5ImlXhg",
+   "title": "All Over",
+   "artists": "DAWSON, Tentendo, Lewis McCallum",
+   "duration_ms": 300011,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/f6497d1d44978d348acf4f7b0858baa473fc2450",
+   "comment": "<곡 32 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2pWuzhqAXoaxdH5nuLWXS6",
+   "title": "Things",
+   "artists": "Tour-Maubourg, Kareem Ali",
+   "duration_ms": 241379,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/25d99d5babe23cd73d15ef3279edf91552593670",
+   "comment": "<곡 33 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0VDEjQIM79DPRFQqxtLSqX",
+   "title": "Get Down",
+   "artists": "Soul Groove (UK)",
+   "duration_ms": 341760,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ef16104208371c634e75b2fc76e724f3c0895c7e",
+   "comment": "<곡 34 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "7xtba9NLfDRDsvHK7VLdcs",
+   "title": "Soul Feels Good",
+   "artists": "Tomos",
+   "duration_ms": 264380,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/bc56c9d541379571e8b5af44043584b98521cff8",
+   "comment": "<곡 35 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "7bJI2zJ9YGJ12V2MjjAIwy",
+   "title": "I Need You so Much (feat. Roberta Sweed)",
+   "artists": "Moodymann, Roberta Sweed",
+   "duration_ms": 161440,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/4868e553e9e10bc92232c44816b95b13f1f09826",
+   "comment": "<곡 36 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3lqjk4RGUywuMGBMIoM4HM",
+   "title": "Golden",
+   "artists": "Duke Boara",
+   "duration_ms": 237176,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/26df37746e69aa5277eab665ed7e323561f05ce7",
+   "comment": "<곡 37 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6wUKQ5ted4bqiVreCelN26",
+   "title": "Frydenlund",
+   "artists": "Bård Berg, DRAAGEN, Eskild Okkenhaug, Ultraposh",
+   "duration_ms": 168813,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/5f46a40646003154a9dafeeedb056062dbcc0801",
+   "comment": "<곡 38 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5oXKJsfLBwBP5fInssrnjR",
+   "title": "Deep Burnt (feat. Axel Tosca)",
+   "artists": "Louie Vega, Axel Tosca",
+   "duration_ms": 351360,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/4b73b73fefacbde97d99ee7c1fa064c9b346c7d6",
+   "comment": "<곡 39 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "59k0aCbXpMwhQrdthiBloe",
+   "title": "arkiv",
+   "artists": "afour, antikk",
+   "duration_ms": 129421,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/4bd57d0525a99d70725439294b5eeee9f48c3ce3",
+   "comment": "<곡 40 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5ohAXDR30kbj3LaAmcPAnQ",
+   "title": "Daylight",
+   "artists": "Jimmy Q, Levi Hayes",
+   "duration_ms": 144000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/a26cbca2bfc3b74d7d32c2feba580d123423d448",
+   "comment": "<곡 41 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "7oCJOrodqUqvPIQZLkqZbX",
+   "title": "Channel 16",
+   "artists": "Kousto",
+   "duration_ms": 204294,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/4349f583a097c4d3f05024e5dba02a02d8c9d9cd",
+   "comment": "<곡 42 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1tFITdO6lhju5TzqaC0R3n",
+   "title": "Jazz Circus",
+   "artists": "Godblesscomputers",
+   "duration_ms": 211500,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/62f93c6bc7930ed33894433c2a7d0c052404c2bc",
+   "comment": "<곡 43 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3KujsU8tv9PkJ60qfQe3l0",
+   "title": "Look Inside",
+   "artists": "gabriel",
+   "duration_ms": 176165,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/e8ae8430d2304aa5cc2da0e9b4854d414a8fe62b",
+   "comment": "<곡 44 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6CU76eXUZXomQUdH4brR70",
+   "title": "Torn to Pieces By A Crocodile In North Queensland",
+   "artists": "Tar Blanche",
+   "duration_ms": 226007,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/568b9661e6fed52f4deaa0e5e264412ad542a35f",
+   "comment": "<곡 45 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "74hPbr0EiRTAbHW4U838do",
+   "title": "Iris",
+   "artists": "Edmondson, M1NT",
+   "duration_ms": 352258,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/77400ced835fc67d958dc7945cea4f8119243ac6",
+   "comment": "<곡 46 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2ExQR8li7V0LqZl4ZGHCzt",
+   "title": "Liminal",
+   "artists": "gabriel",
+   "duration_ms": 162221,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/40c0e5de04a78d3e32500172d29e0d8f83c2bb34",
+   "comment": "<곡 47 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "7n0pAeyepVWEna8JoE3zMM",
+   "title": "Red Ginger",
+   "artists": "Mid Ground",
+   "duration_ms": 332000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/d9e207da2bd29920a677cead19b8a4210bc5695f",
+   "comment": "<곡 48 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3VwuP7hynG63MlUtBHUs91",
+   "title": "Last Dance",
+   "artists": "Soul Groove (UK)",
+   "duration_ms": 392592,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/94af60fe2e39cabbf1d2e0c729a3c6dc969df7ad",
+   "comment": "<곡 49 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3RpXPxrRRYZpKlPCTIxgBH",
+   "title": "Sunday Morning Grease",
+   "artists": "Soul Groove (UK)",
+   "duration_ms": 330240,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/39b34c6afe49fc62e0a8bef72800116ab1e46088",
+   "comment": "<곡 50 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1rYAk9EKTyi6JqEtsqHRaQ",
+   "title": "What It Feels Like - Tomos Remix",
+   "artists": "Grand Eugène, Freak Heat Waves, Tomos",
+   "duration_ms": 275003,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/a6992969da1581e12082cc93a27614ed91043d43",
+   "comment": "<곡 51 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1pEB7rGYF8yiogVYu9SlNd",
+   "title": "Bound",
+   "artists": "Half Dead Dave",
+   "duration_ms": 268546,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/a550417826d7e5aec0102744fef7bb170a999c1b",
+   "comment": "<곡 52 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "7vi5WwJ8dtqhekZLpnhtue",
+   "title": "Tour de Manège",
+   "artists": "Teuteu, Béesau",
+   "duration_ms": 278732,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/0665f84aad301a5b4050818390355be67b2057fc",
+   "comment": "<곡 53 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "102Tp780YuDhlRPBTCIOwa",
+   "title": "Feel Inside",
+   "artists": "Tour-Maubourg",
+   "duration_ms": 370107,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/fa93d1958195518e1eb3ddd6ed2582c735ca2fb8",
+   "comment": "<곡 54 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "19bWGnsuujQJHd3qcHbKE5",
+   "title": "Things You Want",
+   "artists": "Flying Moth",
+   "duration_ms": 220645,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/5c92a170479e5d2be8ad0b234bc90a72f21237c4",
+   "comment": "<곡 55 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0C1sES8ClUw61qr3EHc5zu",
+   "title": "Ellipse",
+   "artists": "Teuteu",
+   "duration_ms": 290762,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/aa96f0f684e5f288bd88fe53f215be34adccea2f",
+   "comment": "<곡 56 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "38K8Nn6nFNRuXZ0oQZQags",
+   "title": "Dreams",
+   "artists": "Tour-Maubourg",
+   "duration_ms": 248397,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/00945079a441efb8c4780c449132708270752a2b",
+   "comment": "<곡 57 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1a656zqO7N5YQYEoJxC4Dd",
+   "title": "Sun Beams Down",
+   "artists": "ford.",
+   "duration_ms": 178983,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/109a0e2b6e2fc0a30fa9b099b42bb0076476319e",
+   "comment": "<곡 58 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5A1T1fsXswhkESkBFvrHIY",
+   "title": "Data Garden",
+   "artists": "Milan93, Juando",
+   "duration_ms": 197175,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/0b6282b06abb34428381d71535a7f12df75856d6",
+   "comment": "<곡 59 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0gTfSIYxrsuDzs6TQo02lZ",
+   "title": "Saving Time",
+   "artists": "Boo Williams",
+   "duration_ms": 421463,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/e64f48d9959b566b7cf9b8fdaff0043d9c8e9a07",
+   "comment": "<곡 60 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5PMRFMesdYnnZ16bPCFA5X",
+   "title": "Arrival",
+   "artists": "NRMNT",
+   "duration_ms": 187741,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ecad728f6974a3704e04535e293c9237307ee30b",
+   "comment": "<곡 61 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1k8DnNm7l9MWwo4Efe2nkZ",
+   "title": "Taking Back My Soul",
+   "artists": "Yasin Hazim",
+   "duration_ms": 242785,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/b406b110db70de14852a177e876a12a4d517ec87",
+   "comment": "<곡 62 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2zCW15TaVMry3Sxze9u5bz",
+   "title": "Life's Heartache",
+   "artists": "Mid Ground",
+   "duration_ms": 278000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/b429f93f58ca3952ab837f76b9e6b667e92b7848",
+   "comment": "<곡 63 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2vAzMw476Dk4Co6TOwOKJ4",
+   "title": "Frankie Comes From Strekov",
+   "artists": "Fennec",
+   "duration_ms": 256194,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/900349295767f9d7b721ebb452819d51633929ae",
+   "comment": "<곡 64 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "4cQ1dZh1yF6GBrpE9kqsuc",
+   "title": "Gloria",
+   "artists": "DAWSON",
+   "duration_ms": 151841,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/c36e417106a2dbce11366507f3255a3c15f590c1",
+   "comment": "<곡 65 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3DxZRy2mbCHMtQdFZF9nl1",
+   "title": "Eye Contact",
+   "artists": "Kousto",
+   "duration_ms": 244000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/c1fa18faeb97b8e90fc4996772d65665c597661d",
+   "comment": "<곡 66 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1DDbGjCrqbLoaFPrTj0gAS",
+   "title": "Forever",
+   "artists": "Gaston",
+   "duration_ms": 149590,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/80eca68ac4c9b6418ceba15e423926eef09da7db",
+   "comment": "<곡 67 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1V4DHkMFbVcGmWSG4qaLfi",
+   "title": "Kamo-gawa",
+   "artists": "Juando, Nathan Haines",
+   "duration_ms": 232857,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/2185d7c7c2e9d3518877ca9223b802428ce597f9",
+   "comment": "<곡 68 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1jPnxZYyIilNP8GzPqPnHM",
+   "title": "Do You Even Care",
+   "artists": "gabriel",
+   "duration_ms": 115183,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/a9d6313c2981c410048d8a9887e2e336b827595c",
+   "comment": "<곡 69 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "4DharZzldpM2tkkz4oTE0n",
+   "title": "All I Want",
+   "artists": "Yasin Hazim",
+   "duration_ms": 176597,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/793654a01bccee857cbf320871437ce3acaa0240",
+   "comment": "<곡 70 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6HVPx25OHhWo3OXetBWluT",
+   "title": "Break Your Heart",
+   "artists": "Tomos",
+   "duration_ms": 292000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/58f227c5b448231a678776b6cc40d70e1646e70b",
+   "comment": "<곡 71 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1zsXI1OVe28uQKVsrAhf5F",
+   "title": "Evviva",
+   "artists": "Bård Berg",
+   "duration_ms": 265288,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/795c81ece1f262b98031c6602dd5feb2cb8b46e0",
+   "comment": "<곡 72 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0xIWvMGKcg7HX1onH3g7nf",
+   "title": "Blazing Sun",
+   "artists": "DAWSON, HIGH HØØPS",
+   "duration_ms": 224667,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ea85b1fc520def491e13d335fa7a4c8c0d19378e",
+   "comment": "<곡 73 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "698CrtsUp5R57aoUXOWp2T",
+   "title": "Shoreline",
+   "artists": "Coastal",
+   "duration_ms": 216135,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/c07e530cc5be64075fcc24d20d84319fb2dbf7b6",
+   "comment": "<곡 74 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "4e2xo3upMAjIPywjFUSDBp",
+   "title": "Procession",
+   "artists": "Kareem Ali",
+   "duration_ms": 316693,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/78cb3d1d61a8fe3e0709e33ec620c827ca8f1e89",
+   "comment": "<곡 75 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0ZocjCzNp403Gmy6pEkuD9",
+   "title": "First Light Falling",
+   "artists": "Godblesscomputers",
+   "duration_ms": 172250,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/46b182b58ec11df27be37d924c46f5376c417dc0",
+   "comment": "<곡 76 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "2GAKgXGOjM7v3OYYtOVpto",
+   "title": "Every Night I Dream Of Catching Trains",
+   "artists": "Edmondson",
+   "duration_ms": 310691,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/70cb100a7a37ee0c4f523dd787e34ae449547247",
+   "comment": "<곡 77 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1zlBvGpCiqA94Vyt4whSUg",
+   "title": "Tappan Z",
+   "artists": "Jimmy Q",
+   "duration_ms": 154000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/91e40bebd60fcb5fc37f623a472bfebf4d96d01b",
+   "comment": "<곡 78 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6ByIvhZp1fSV8uh31UFQyT",
+   "title": "Now You Feel",
+   "artists": "Flying Moth",
+   "duration_ms": 346229,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/39ef5615a3657c50f754ee356c9393172f7de6cc",
+   "comment": "<곡 79 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6UeexKd3df3adzlRmpY74Q",
+   "title": "Sequoia",
+   "artists": "gabriel, Low Tide",
+   "duration_ms": 146052,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/2fd5d1d09e9e63940dcc04aa84e361115f0743bf",
+   "comment": "<곡 80 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "65TeY2ikuE9dVprllARD6Y",
+   "title": "Fable",
+   "artists": "gabriel, Thierry Ganz",
+   "duration_ms": 180611,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ba70a59d8ed9e162d73f00d216f41c806757bb61",
+   "comment": "<곡 81 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "084WnJ2HfGMoIzMGrZxeEu",
+   "title": "Johanna's Blues",
+   "artists": "Tour-Maubourg, Cyan Lu",
+   "duration_ms": 236648,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ab7fd23ae465368405184c1473ee94c07bfcdf1a",
+   "comment": "<곡 82 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "10Pd2Xi26SrQ6k4xRxKRJv",
+   "title": "Mezcal Bubblebath",
+   "artists": "Fennec",
+   "duration_ms": 322810,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/3a8e05b9f7b4e97d890ae4e557d3d07d100ddbe1",
+   "comment": "<곡 83 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "35qZ5s83cjjbFxVvrcaBEp",
+   "title": "Tropical Luxury",
+   "artists": "Juando",
+   "duration_ms": 237500,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/8c1858249a7580342051ca90cacbd24850b26758",
+   "comment": "<곡 84 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6MVhPt6eNsWUtmtIGbzKKm",
+   "title": "Kifsia Avenue",
+   "artists": "Lamchopz",
+   "duration_ms": 210491,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/032306158af8a315d32b060b0fdd625fdd499381",
+   "comment": "<곡 85 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3ucGZQ5F83gLcKjmJn6HLR",
+   "title": "Intentions - Frits Wentink Remix",
+   "artists": "Max Sinàl, KingCrowney, Liv East, Frits Wentink",
+   "duration_ms": 342580,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ee81dc88558ae6e7106f7be83a8b65217bcb48fc",
+   "comment": "<곡 86 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6HLEYfLDzrhy720GRlQ5sA",
+   "title": "Love is Here",
+   "artists": "Tomos",
+   "duration_ms": 234105,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/de4aa07808f1e0b12645ee56ca873898bd0ef750",
+   "comment": "<곡 87 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "4snaFgoczs3X4e1426YeRd",
+   "title": "What Do You Know",
+   "artists": "Yasin Hazim",
+   "duration_ms": 219052,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/e48b5533881aa9500d0346bba5b2bbb7ca798ec8",
+   "comment": "<곡 88 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "5fqv8rF3fsHGkfEGuQ6Li1",
+   "title": "perlemor",
+   "artists": "afour, antikk, Jordan Burnett",
+   "duration_ms": 128431,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/82ee3c8a3b81b29877273d958e3bb0c03c1dab0a",
+   "comment": "<곡 89 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "35jU9HtsJRMbhH5s4XMHHe",
+   "title": "Distant Pathways",
+   "artists": "NRMNT",
+   "duration_ms": 177049,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/48d134aa7680f362d38883e498e7d20a98b6edda",
+   "comment": "<곡 90 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3pOcr1YHQap65TgnCxJXtY",
+   "title": "Falling",
+   "artists": "Tour-Maubourg, Nic Hanson",
+   "duration_ms": 267257,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/bfa081c37ab189d0fb9506cc4ab565557852307e",
+   "comment": "<곡 91 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0BTBgqgITrBE45BGjdJKHI",
+   "title": "Summer Nights '86",
+   "artists": "Retrofract",
+   "duration_ms": 308000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/15ffd973f8de56e781a58316afd104728a673ca5",
+   "comment": "<곡 92 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "3JFUpu2A1HXL1Cq2R5QEkV",
+   "title": "One Last Night",
+   "artists": "Kousto",
+   "duration_ms": 193548,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/dd360b165ea2d4e3aaa8977c948eeed08bedfc8a",
+   "comment": "<곡 93 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "4r7mOufcJCGaI81dIfIyvQ",
+   "title": "Red Wine",
+   "artists": "Can U",
+   "duration_ms": 142016,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/8d0a0d948f5181200b8fa896a619f6bb78659980",
+   "comment": "<곡 94 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6zv946kKMHcI4zeEbQ44LF",
+   "title": "Only Love Is Real",
+   "artists": "Tour-Maubourg",
+   "duration_ms": 322279,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/58e3c6ff9d0bc283d0520cfbeacc53fd74293572",
+   "comment": "<곡 95 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1o5fuykTU6bufOrIi8wgsJ",
+   "title": "Solace",
+   "artists": "Ajmw, Blanc",
+   "duration_ms": 160000,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/3bc0d6ba46b84186d42152202d5467e1eaf5ec0b",
+   "comment": "<곡 96 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "1DjuX5ctuQJukaDWTEGRGv",
+   "title": "The Truth",
+   "artists": "Fennec",
+   "duration_ms": 257421,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/d64bb8f58bf7d884ab12e5b3b5e82aa7a07ae85e",
+   "comment": "<곡 97 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "53aTX7mqe8wQHjKZxfd4L1",
+   "title": "Mirrors",
+   "artists": "gabriel",
+   "duration_ms": 142366,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/24a3d040b7ef035dfdca54e8c8542d91696b3582",
+   "comment": "<곡 98 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "0HNbVy8zsQYVhGn7pawAHv",
+   "title": "sevilla",
+   "artists": "afour",
+   "duration_ms": 117480,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/909226a923440aa84f066cda5c3e7baab77ac762",
+   "comment": "<곡 99 코멘트>",
+   "comment_by": null
+  },
+  {
+   "id": "6TpnDg75tf99qLS8OrILbl",
+   "title": "So Good",
+   "artists": "philocalie, būgs",
+   "duration_ms": 259047,
+   "explicit": false,
+   "preview": "https://p.scdn.co/mp3-preview/ad78ec2beefe5cf34deff9c1411dc3c34018f3d7",
+   "comment": "<곡 100 코멘트>",
+   "comment_by": null
+  }
+ ]
+}

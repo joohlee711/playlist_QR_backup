@@ -1,0 +1,17 @@
+{
+ "playlists": [
+  {
+   "slug": "2026-11-mono-lens",
+   "vol": null,
+   "date": "2026-11-25",
+   "title": "왼손잡이 덥스텝",
+   "type": "guest",
+   "curator": {
+    "name": "Mono Lens",
+    "handle": "mono_lens_"
+   },
+   "cover": "assets/2026-11-mono-lens/cover.jpg",
+   "tracks": 100
+  }
+ ]
+}
