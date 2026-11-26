@@ -2,7 +2,8 @@
 
 **사이트:** https://joohlee711.github.io/playlist_QR_backup/
 
-Claude 앱 **Code 탭**에서 `playlist_QR_backup` 폴더를 열고, 아래처럼 말하면 돼요.
+**claude.ai/code**에서 `playlist_QR_backup` 레포를 고르고, 아래처럼 말하면 돼요.
+노트북에 설치할 건 없어요.
 나머지는 Claude가 하나씩 물어보면서 해요.
 
 | 하고 싶은 것 | 이렇게 말하기 |

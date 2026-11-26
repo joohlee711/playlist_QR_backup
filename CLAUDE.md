@@ -4,7 +4,12 @@
 GitHub Pages(main 브랜치, 루트)로 배포: https://joohlee711.github.io/playlist_QR_backup/
 
 ## 작업하는 사람
-**비개발자.** JSON·git·터미널을 모르고 IDE도 없음. Claude 데스크톱 앱 Code 탭으로만 작업한다.
+**비개발자.** JSON·git·터미널을 모르고 IDE도 없음. **Claude Code 클라우드 세션**(claude.ai/code 웹 또는 앱)으로만 작업한다. 사용자 컴퓨터에는 아무것도 설치하지 않는다.
+
+## 클라우드 환경
+- 필요한 외부 접속: `open.spotify.com`(곡 정보), `i.scdn.co`(커버). 패키지 매니저(pip)는 기본 허용.
+- 스포티파이 접속이 프록시에 막히면, 환경 도구(get_environment → create_environment 또는 update_environment)로 위 두 호스트만 허용하는 이 레포용 개인 환경을 제안한다. 사용자는 승인 창에서 허용만 누르면 된다고 미리 한 줄 알려준다.
+- `segno`가 없으면 `pip install segno`.
 - 설명은 쉬운 한국어로. 파일 내용이나 JSON을 보여주지 말고 "무엇이 바뀌었는지"를 말로 요약.
 - 명령어를 사용자에게 시키지 말고 직접 실행한다.
 - 사용자는 README를 거의 안 읽는다. "플리 올릴래" 한마디로 시작한다고 가정한다.
@@ -46,8 +51,8 @@ GitHub Pages(main 브랜치, 루트)로 배포: https://joohlee711.github.io/pla
    - `tracks[].comment_by`: 코멘트 쓴 사람(크루 플리에서 `— Sejung` 같은 경우). 없으면 `null`.
    - 스크린샷에서 옮긴 경우 오타 가능성이 있다고 사용자에게 알린다.
 5. 제목·날짜 등을 JSON에서 직접 바꿨으면 `python3 scripts/add_playlist.py --reindex`.
-6. 미리보기: `python3 -m http.server 8000` 실행 후 `http://localhost:8000/#/p/<slug>`를 사용자가 열 수 있게 안내(또는 앱의 미리보기 기능 사용). 목록과 상세 둘 다 확인.
-7. 사용자가 확인하면 main에 커밋·푸시. 커밋 메시지는 한국어로 짧게 (예: `플리 추가: 왼손잡이 덥스텝 (Mono Lens)`). 1~2분 뒤 사이트 반영된다고 안내.
+6. 미리보기: 사용자는 컨테이너의 localhost를 열 수 없다. `python3 -m http.server 8000`을 띄우고 Playwright(사전 설치됨)로 모바일 크기(iPhone 13) 스크린샷을 찍어 **목록 화면과 상세 화면(코멘트 1~2개 펼친 상태)** 을 사용자에게 파일로 보여준다. Pretendard CDN이 막혀 기본 폰트로 보일 수 있다고 한 줄 알린다.
+7. 사용자가 "올려줘"라고 하면 그것을 main 푸시 허락으로 보고 main에 커밋·푸시. 커밋 메시지는 한국어로 짧게 (예: `플리 추가: 왼손잡이 덥스텝 (Mono Lens)`). 1~2분 뒤 사이트 반영된다고 안내. (세션이 작업 브랜치+PR 방식을 요구하면 PR을 만들고, 사용자 허락을 받아 바로 머지까지 한다.)
 
 ## 수정/삭제
 - 텍스트 수정: 해당 JSON만 고치고(필요하면 `--reindex`) 미리보기 → 확인 → 푸시.
@@ -60,7 +65,7 @@ GitHub Pages(main 브랜치, 루트)로 배포: https://joohlee711.github.io/pla
 - 되돌린 뒤 무엇이 원래대로 돌아갔는지 한 줄로 알려준다.
 
 ## 처음 준비 / 권한 창
-- 사용자가 SETUP.md 2번 문장으로 준비를 요청하면: git·Python 설치 확인(없으면 설치 안내 또는 설치), 레포 clone, `pip install segno`, GitHub 인증(push 가능 여부)까지 확인하고 "준비 끝"이라고 알린다.
+- 첫 세션에서: 스포티파이 접속 확인(막히면 위 '클라우드 환경'대로 환경 제안), `pip install segno`, main 푸시 권한(협업자 초대 수락 여부)을 확인하고 "준비 끝"이라고 알린다. 사용자 컴퓨터에 설치를 시키지 않는다.
 - 명령 실행 전 권한 창이 뜰 때마다 사용자는 낯선 영어 명령어를 보게 된다. 처음 몇 번은 실행 전에 "지금 ○○하려고 허용을 물어볼 거야"라고 한 줄로 미리 말해준다.
 
 ## 디자인 규칙 (사이트 수정 요청 시)
