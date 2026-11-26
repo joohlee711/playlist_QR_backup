@@ -30,6 +30,10 @@ function stopAudio() {
 /* ---------------- 목록 ---------------- */
 function renderList() {
   const all = index.playlists;
+  if (!all.length) {
+    app.innerHTML = `<p class="empty">아직 올라간 플레이리스트가 없어요.</p>`;
+    return;
+  }
   const years = [...new Set(all.map((p) => (p.date || "").slice(0, 4)).filter(Boolean))].sort().reverse();
   const hasEditor = all.some((p) => p.type === "editor");
 
